@@ -11,7 +11,7 @@
 
 ## Test Host Environment
 * macOS Sierra 10.12.5
-*
+* Windows 10
 
 ## Docker Command
 
