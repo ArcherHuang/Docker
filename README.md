@@ -2,25 +2,25 @@
 
 ## Docker Command
 
-* 從 Docker Hub 取得 flask-sample Image
+* 1. 從 Docker Hub 取得 flask-sample Image
   * sudo docker pull mmosconii/flask-sample
-* 執行 flask-sample Image
+* 2. 執行 flask-sample Image
   * sudo docker run -d --name=flask-sample-dev -p 8888:8888 mmosconii/flask-sample
-* 查看 Container Log
+* 3. 查看 Container Log
   * sudo docker logs -f flask-sample-dev
-* 進入正在執行的 Docker Container
+* 4. 進入正在執行的 Docker Container
   * sudo docker exec -it flask-sample-dev bash
-* 刪除 Image
+* 5. 刪除 Image
   * sudo docker rmi -f mmosconii/flask-sample
-* 刪除 Container
+* 6. 刪除 Container
   * sudo docker rm -f flask-sample-dev
-* 停止 Container
+* 7. 停止 Container
   * sudo docker stop flask-sample-dev
-* 重啟 Container
+* 8. 重啟 Container
   * sudo docker restart flask-sample-dev
-* 查看本地端的 Image
+* 9. 查看本地端的 Image
   * sudo docker images
-* 查看目前 Container 狀態
+* 10. 查看目前 Container 狀態
   * sudo docker ps -a
 
 ## API
