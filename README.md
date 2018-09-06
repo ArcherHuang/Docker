@@ -9,6 +9,7 @@
 ## API
 
 * GET http://IP:8888/
+  * Response: Flask Dockerized
 * POST http://IP:8888/api/v1.0/print
   * form-data
   * Key: name
