@@ -10,8 +10,8 @@
 * macOS Sierra 10.12.5
 
 ## Test Host Environment
-* macOS Sierra 10.12.5
-* Windows 10
+* macOS Sierra 10.12.5 - Terminal
+* Windows 10 - PowerShell
 
 ## Docker Command
 
