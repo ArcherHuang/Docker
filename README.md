@@ -8,7 +8,7 @@
 
 ## Build Docker Image Host Environment
 * macOS Sierra 10.12.5
-
+```json
 ## Test Host Environment
 * macOS Sierra 10.12.5 - Terminal
 * Windows 10 - PowerShell
