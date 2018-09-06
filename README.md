@@ -28,6 +28,10 @@
   * sudo docker images
 * 10&nbsp;&nbsp;查看目前 Container 狀態
   * sudo docker ps -a
+* 11&nbsp;&nbsp;確認 Docker 版本
+  * docker --version
+* 12&nbsp;&nbsp;透過 Dockerfile 建立 Docker Image
+  * sudo docker build --no-cache -t mmosconii/flask-sample .
 
 ## API
 
