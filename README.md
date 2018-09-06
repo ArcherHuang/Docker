@@ -29,7 +29,20 @@ Create 新增
 Read   讀取
 Update 更新
 Delete 刪除
+
+|   |  CRUD  | HTTP 傳輸動作 | 說明 |
+|---|:------:|:-------------:|:----:|
+| C | Create |      POST     | 新增 |
+| R |  Read  |      GET      | 讀取 |
+| U | Update |      PUT      | 更新 |
+| D | Delete |     DELETE    | 刪除 |
 ```
+|   |  CRUD  | HTTP 傳輸動作 | 說明 |
+|---|:------:|:-------------:|:----:|
+| C | Create |      POST     | 新增 |
+| R |  Read  |      GET      | 讀取 |
+| U | Update |      PUT      | 更新 |
+| D | Delete |     DELETE    | 刪除 |
 
 ## Docker 運作流程
 [Top](#contents)
