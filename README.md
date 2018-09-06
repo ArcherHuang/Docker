@@ -12,9 +12,18 @@
   * Response
     * Flask Dockerized
 * POST http://IP:8888/api/v1.0/print
-  * form-data
-  * Key: name
-  * Value: Your Name
+  * Request
+    * form-data
+    * Key: name
+    * Value: Your Name
+  * Response
+    * {"comment": "[ POST Method ] Hello Your Name", "status": 200}
 * GET http://IP:8888/api/v1.0/print
+  * Response
+    * {"comment": "[ Get Method ] Hello World", "status": 200}
 * PUT http://IP:8888/api/v1.0/print
+  * Response
+    * {"comment": "[ PUT Method ] Hello World", "status": 200}
 * DELETE http://IP:8888/api/v1.0/print
+  * Response
+    * {"comment": "[ DELETE Method ] Hello World", "status": 200}
