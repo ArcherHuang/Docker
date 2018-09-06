@@ -126,6 +126,9 @@ Delete 刪除
     * Value: Your Name
   * Response
     * {"comment": "[ POST Method ] Hello Your Name", "status": 200}
+    
+    ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___1_51_52-1536213135289.png)
+    
 * GET http://IP:8888/api/v1.0/print
   * Response
     * {"comment": "[ Get Method ] Hello World", "status": 200}
