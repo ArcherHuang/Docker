@@ -83,16 +83,16 @@ Delete 刪除
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___4_27_28-1536222462381.png)
 
 ```
-第  2 行 使用 ubuntu 16.04 版本
-第  3 行 此 Dockerfile 維護者資訊
-第  5 行 透過 apt-get 更新
-第  6 行 透過 apt-get 安裝 python-pip、python-dev、build-essential 套件
-第  7 行 複製指定檔案到 Container 中，亦即是複製 Dockerfile、flask-docker.py、requirements.txt 檔案到 /flask-app 目錄中
-第  8 行 切換工作目錄到 /flask-app 目錄中
-第  9 行 透過 pip 安裝 requirements.txt 檔案中的套件，亦即是安裝 Flask 的 0.12.2 版本
-第 10 行 Expose Container 中的埠號
-第 11 行 使用 python 指令
-第 12 行 執行 flask-docker.py 程式
+第  2 行  使用 ubuntu 16.04 版本
+第  3 行  此 Dockerfile 維護者資訊
+第  5 行  透過 apt-get 更新
+第  6 行  透過 apt-get 安裝 python-pip、python-dev、build-essential 套件
+第  7 行  複製指定檔案到 Container 中，亦即是複製 Dockerfile、flask-docker.py、requirements.txt 檔案到 /flask-app 目錄中
+第  8 行  切換工作目錄到 /flask-app 目錄中
+第  9 行  透過 pip 安裝 requirements.txt 檔案中的套件，亦即是安裝 Flask 的 0.12.2 版本
+第 10 行  Expose Container 中的埠號
+第 11 行  使用 python 指令
+第 12 行  執行 flask-docker.py 程式
 ```
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___4_27_28-1536222462381.pngZ)
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___4_27_28-1536222462381.png)
