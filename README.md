@@ -28,7 +28,7 @@ Delete 刪除
 * Docker Registry
   * 存放映像檔檔案的地方
   * 種類
-    * 分為公開倉庫（Public）- [Docker Hub](https://hub.docker.com/)
+    * 分為公開倉庫（Public）- e.g., [Docker Hub](https://hub.docker.com/)
     * 私有倉庫（Private）- e.g., [Azure Container Registry](https://azure.microsoft.com/en-au/services/container-registry/)
 
 ## Docker Image Environment
