@@ -138,9 +138,14 @@ Delete 刪除
 * PUT http://IP:8888/api/v1.0/print
   * Response
     * {"comment": "[ PUT Method ] Hello World", "status": 200}
+    
+    ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___1_54_09-1536213275178.png)
+    
 * DELETE http://IP:8888/api/v1.0/print
   * Response
     * {"comment": "[ DELETE Method ] Hello World", "status": 200}
+    
+    ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___1_54_20-1536213310932.png)
 
 ## Docker Hub
 [Top](#contents)
