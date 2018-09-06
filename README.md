@@ -6,6 +6,10 @@
 * Python 2.7
 * Flask 0.12.2
 
+## Test Host Environment
+* macOS Sierra 10.12.5
+*
+
 ## Docker Command
 
 * 1&nbsp;&nbsp;&nbsp;&nbsp;從 Docker Hub 取得 mmosconii 的 flask-sample Image
