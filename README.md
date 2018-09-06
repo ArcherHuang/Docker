@@ -20,7 +20,7 @@
   * sudo docker restart flask-sample-dev
 * 9&nbsp;&nbsp;&nbsp;&nbsp;查看本地端的 Image
   * sudo docker images
-* 10&nbsp;&nbsp;&nbsp;查看目前 Container 狀態
+* 10&nbsp;&nbsp;查看目前 Container 狀態
   * sudo docker ps -a
 
 ## API
