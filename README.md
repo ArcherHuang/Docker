@@ -116,6 +116,9 @@ Delete 刪除
 * GET http://IP:8888/
   * Response
     * Flask Dockerized
+    
+    ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___1_49_12-1536213025205.png)
+    
 * POST http://IP:8888/api/v1.0/print
   * Request
     * form-data
