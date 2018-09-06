@@ -1,5 +1,5 @@
 # Docker-Flask-Sample
-| 晶
+> 此範例說明如何建立 Docker 版的 Python Flask CRUD
 
 ## Docker Command
 
