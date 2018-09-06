@@ -21,15 +21,16 @@ Delete 刪除
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___11_24_43-1536204323704.png)
 
 * Docker Image
-  * 是一個唯讀的模板且可透過它可以用來建立 Docker 容器
+  * 是一個唯讀的模板且可透過它可以用來建立 Docker Container
 * Dockerfile
-
+  * 透過 Dockerfile 打包自己的 Docker Image
 * Docker Container
+  * 透過 Docker Image 產生隔離的執行環境
 * Docker Registry
-  * 存放映像檔檔案的地方
+  * 存放 Docker Image 檔案的地方
   * 種類
-    * 分為公開倉庫（Public）- e.g., [Docker Hub](https://hub.docker.com/)
-    * 私有倉庫（Private）- e.g., [Azure Container Registry](https://azure.microsoft.com/en-au/services/container-registry/)
+    * 公開倉庫（ Public Registry ）- e.g., [Docker Hub](https://hub.docker.com/)
+    * 私有倉庫（ Private Registry ）- e.g., [Azure Container Registry](https://azure.microsoft.com/en-au/services/container-registry/)
 
 ## Docker Image Environment
 * Ubuntu 16.04
