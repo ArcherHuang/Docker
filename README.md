@@ -1,7 +1,9 @@
 # Docker-Flask-Sample
 > 此範例說明如何建立 Docker 版的 Python Flask CRUD
 
-``` Flask是一個使用 Python 的輕量級 Web 應用框架 ```
+``` 
+Flask是一個使用 Python 的輕量級 Web 應用框架 
+```
 
 >> **C**reate 新增 <br/>
 >> **R**ead 讀取 <br/>
