@@ -47,10 +47,10 @@ Delete 刪除
     * 公開倉庫（ Public Registry )
       * e.g., 免費 [Docker Hub](https://hub.docker.com/) 
     * 私有倉庫（ Private Registry ）
-      * e.g., 自建、<br/>
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[【 付費 】](https://azure.microsoft.com/zh-tw/pricing/details/container-registry/) [Azure Container Registry](https://azure.microsoft.com/en-au/services/container-registry/)、<br/>
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[【 付費 】](https://cloud.google.com/container-registry/pricing?hl=zh-tw) [GCP Container Registry](https://cloud.google.com/container-registry/?hl=zh-tw)、<br/>
-              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[【 付費 】](https://aws.amazon.com/tw/ecr/pricing/) [Amazon Elastic Container Registry](https://aws.amazon.com/tw/ecr/)
+      * e.g., ① 自建、<br/>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[【 ② 付費 】](https://azure.microsoft.com/zh-tw/pricing/details/container-registry/) [Azure Container Registry](https://azure.microsoft.com/en-au/services/container-registry/)、<br/>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[【 ③ 付費 】](https://cloud.google.com/container-registry/pricing?hl=zh-tw) [GCP Container Registry](https://cloud.google.com/container-registry/?hl=zh-tw)、<br/>
+              &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[【 ④ 付費 】](https://aws.amazon.com/tw/ecr/pricing/) [Amazon Elastic Container Registry](https://aws.amazon.com/tw/ecr/)
 
 ## Docker Image Environment
 [Top](#contents)
