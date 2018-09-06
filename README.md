@@ -15,6 +15,8 @@
 
 ## Docker Command
 
+> 在 Windows 環境執行指令時，請移除最前面的 sudo
+
 * 1&nbsp;&nbsp;&nbsp;&nbsp;從 Docker Hub 取得 mmosconii 的 flask-sample Image
   * sudo docker pull mmosconii/flask-sample
 * 2&nbsp;&nbsp;&nbsp;&nbsp;執行 flask-sample Image
