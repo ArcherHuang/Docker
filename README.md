@@ -1,5 +1,9 @@
 # Docker-Flask-Sample
 > 此範例說明如何建立 Docker 版的 Python Flask CRUD
+>> **C**reate 新增
+>> **R**ead 讀取
+>> **U**pdate 更新
+>> **D**elete 刪除
 
 ## Docker Image Environment
 * Ubuntu 16.04
