@@ -1,4 +1,4 @@
-# 101 Docker-Flask-Sample
+# Docker-Flask-Sample
 > 此範例說明如何建立 Docker 版的 Python Flask CRUD
 
 ## Docker Image Environment
