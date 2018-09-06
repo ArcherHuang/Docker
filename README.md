@@ -29,7 +29,8 @@ Delete 刪除
 * Docker Registry
   * 存放 Docker Image 的地方
   * 種類
-    * 公開倉庫（ Public Registry ）- e.g., [Docker Hub](https://hub.docker.com/)
+    * 公開倉庫（ Public Registry ）- 
+      * e.g., [Docker Hub](https://hub.docker.com/)
     * 私有倉庫（ Private Registry ）- e.g., [Azure Container Registry](https://azure.microsoft.com/en-au/services/container-registry/)
 
 ## Docker Image Environment
