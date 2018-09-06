@@ -19,7 +19,7 @@
 
 * 1&nbsp;&nbsp;&nbsp;&nbsp;從 Docker Hub 取得 mmosconii 的 flask-sample Image
   * sudo docker pull mmosconii/flask-sample
-* 2&nbsp;&nbsp;&nbsp;&nbsp;執行 flask-sample Image，命名為 flask-sample-dev，埠號對應主機的 8888 通訊埠轉發到 Container 的 8888 通訊埠
+* 2&nbsp;&nbsp;&nbsp;&nbsp;執行 flask-sample Image，命名為 flask-sample-dev，<br>埠號對應主機的 8888 通訊埠轉發到 Container 的 8888 通訊埠
   * sudo docker run -d --name=flask-sample-dev -p 8888:8888 mmosconii/flask-sample
 * 3&nbsp;&nbsp;&nbsp;&nbsp;查看 Container Log
   * sudo docker logs -f flask-sample-dev
