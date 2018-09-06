@@ -8,7 +8,6 @@
 - [Docker Command](#docker-command)
 - [API](#api)
 - [Docker Hub](#docker-hub)
-- [GitHub](#github)
 
 # Docker Flask Sample
 > 此範例說明如何建立 Docker 版的 Python Flask CRUD
@@ -136,8 +135,3 @@ Delete 刪除
 [Top](#contents)
 
 * https://hub.docker.com/r/mmosconii/flask-sample/
-
-## GitHub
-[Top](#contents)
-
-* https://github.com/ArcherHuang/Docker-Flask-Sample
