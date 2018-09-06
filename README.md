@@ -15,7 +15,7 @@
 
 ## Docker Command
 
-> 在 Windows 環境執行指令時，請移除最前面的 sudo (粗體字)
+> 在 Windows 環境執行指令時，請移除最前面的 sudo ( 粗體字的部份 )
 
 * 1&nbsp;&nbsp;&nbsp;&nbsp;從 Docker Hub 取得 mmosconii 的 flask-sample Image 
   * **sudo** docker pull mmosconii/flask-sample
