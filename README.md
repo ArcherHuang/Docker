@@ -17,6 +17,9 @@ Update 更新
 Delete 刪除
 ```
 
+## Docker 運作流程
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___11_24_43-1536204323704.png)
+
 ## Docker Image Environment
 * Ubuntu 16.04
 * Python 2.7
