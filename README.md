@@ -5,6 +5,7 @@
 * sudo docker pull mmosconii/flask-sample
 * sudo docker run -d --name=flask-sample-dev -p 8888:8888 mmosconii/flask-sample
 * sudo docker logs -f flask-sample-dev
+* sudo docker exec -it flask-sample-dev bash
 
 ## API
 
