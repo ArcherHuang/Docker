@@ -20,6 +20,17 @@ Delete 刪除
 ## Docker 運作流程
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___11_24_43-1536204323704.png)
 
+* Docker Image
+  * 是一個唯讀的模板且可透過它可以用來建立 Docker 容器
+* Dockerfile
+
+* Docker Container
+* Docker Registry
+  * 存放映像檔檔案的地方
+  * 種類
+    * 分為公開倉庫（Public）- [Docker Hub](https://hub.docker.com/)
+    * 私有倉庫（Private）- e.g., [Azure Container Registry](https://azure.microsoft.com/en-au/services/container-registry/)
+
 ## Docker Image Environment
 * Ubuntu 16.04
 * Python 2.7
