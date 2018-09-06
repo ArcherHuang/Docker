@@ -41,6 +41,10 @@
   * docker --version
 * 12&nbsp;&nbsp;透過 Dockerfile 建立 Docker Image
   * **sudo** docker build --no-cache -t mmosconii/flask-sample .
+* 13&nbsp;&nbsp;登入到 Docker Hub
+  * **sudo** docker login
+* 14&nbsp;&nbsp;上傳 Image 到 Docker Hub
+  * **sudo** docker push mmosconii/flask-sample
 
 ## API
 
