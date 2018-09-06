@@ -142,6 +142,9 @@ Delete 刪除
     ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___1_49_12-1536213025205.png)
     
 * POST http://IP:8888/api/v1.0/print
+  * Code
+    ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___4_48_22-1536223722244.png)
+  
   * Request
     * form-data
     * Key: name
@@ -152,18 +155,27 @@ Delete 刪除
     ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___1_51_52-1536213135289.png)
     
 * GET http://IP:8888/api/v1.0/print
+  * Code
+    ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___4_49_36-1536223792965.png)
+  
   * Response
     * {"comment": "[ Get Method ] Hello World", "status": 200}
     
     ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___1_53_01-1536213198147.png)
     
 * PUT http://IP:8888/api/v1.0/print
+  * Code
+    ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___4_50_29-1536223846490.png)
+  
   * Response
     * {"comment": "[ PUT Method ] Hello World", "status": 200}
     
     ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___1_54_09-1536213275178.png)
     
 * DELETE http://IP:8888/api/v1.0/print
+  * Code
+    ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___4_51_01-1536223876581.png)
+  
   * Response
     * {"comment": "[ DELETE Method ] Hello World", "status": 200}
     
