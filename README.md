@@ -133,6 +133,9 @@ Delete 刪除
 [Top](#contents)
 
 * GET http://IP:8888/
+  * Code
+    ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___4_46_53-1536223643532.png)
+    
   * Response
     * Flask Dockerized
     
