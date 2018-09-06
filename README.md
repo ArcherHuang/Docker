@@ -5,10 +5,12 @@
 Flask是一個使用 Python 的輕量級 Web 應用框架 
 ```
 
->> **C**reate 新增 <br/>
->> **R**ead 讀取 <br/>
->> **U**pdate 更新 <br/>
+```
+>> **C**reate 新增
+>> **R**ead 讀取
+>> **U**pdate 更新
 >> **D**elete 刪除
+```
 
 ## Docker Image Environment
 * Ubuntu 16.04
