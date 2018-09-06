@@ -30,7 +30,7 @@ Delete 刪除
   * 存放 Docker Image 的地方
   * 種類
     * 公開倉庫（ Public Registry )
-      * e.g., 免費 [Docker Hub](https://hub.docker.com/) 、
+      * e.g., 免費 [Docker Hub](https://hub.docker.com/) 、<br/>
               &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;付費 [Azure Container Registry](https://azure.microsoft.com/en-au/services/container-registry/)
     * 私有倉庫（ Private Registry ）
       * e.g., 自建
