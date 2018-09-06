@@ -94,8 +94,6 @@ Delete 刪除
 第 11 行  使用 python 指令
 第 12 行  執行 flask-docker.py 程式
 ```
-![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___4_27_28-1536222462381.pngZ)
-![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___4_27_28-1536222462381.png)
 
 ## Docker Command
 [Top](#contents)
