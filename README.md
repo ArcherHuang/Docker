@@ -24,19 +24,6 @@ Docker 是一個開放原始碼軟體專案，讓應用程式布署在軟體容�
 Flask 是一個 Python 的輕量級 Web 應用框架 
 ```
 
-```
-Create 新增
-Read   讀取
-Update 更新
-Delete 刪除
-
-|   |  CRUD  | HTTP 傳輸動作 | 說明 |
-|---|:------:|:-------------:|:----:|
-| C | Create |      POST     | 新增 |
-| R |  Read  |      GET      | 讀取 |
-| U | Update |      PUT      | 更新 |
-| D | Delete |     DELETE    | 刪除 |
-```
 |   |  CRUD  | HTTP 傳輸動作 | 說明 |
 |---|:------:|:-------------:|:----:|
 | C | Create |      POST     | 新增 |
