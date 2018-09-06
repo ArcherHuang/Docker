@@ -67,7 +67,7 @@ Delete 刪除
 ## Test Image Host Environment
 [Top](#contents)
 
-* macOS Sierra 10.12.5 - Terminal
+* macOS Sierra 10.12.5 - 終端機（ Terminal ）
 * Windows 10 - PowerShell
 
 ## Docker Engine
