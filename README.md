@@ -6,6 +6,9 @@
 * Python 2.7
 * Flask 0.12.2
 
+## Build Docker Image Host Environment
+* macOS Sierra 10.12.5
+
 ## Test Host Environment
 * macOS Sierra 10.12.5
 *
