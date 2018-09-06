@@ -28,7 +28,7 @@
   * Response
     * {"comment": "[ DELETE Method ] Hello World", "status": 200}
 
-## Github
+## GitHub
 * https://github.com/ArcherHuang/Docker-Flask-Sample
 
 ## Docker Hub
