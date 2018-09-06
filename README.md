@@ -2,9 +2,9 @@
 
 ## Docker Command
 
-* 1  從 Docker Hub 取得 flask-sample Image
+* 1&nbsp;&nbsp;從 Docker Hub 取得 flask-sample Image
   * sudo docker pull mmosconii/flask-sample
-* 2  執行 flask-sample Image
+* 2&nbsp;&nbsp;執行 flask-sample Image
   * sudo docker run -d --name=flask-sample-dev -p 8888:8888 mmosconii/flask-sample
 * 3  查看 Container Log
   * sudo docker logs -f flask-sample-dev
