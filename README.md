@@ -21,7 +21,7 @@ Delete 刪除
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_06___11_24_43-1536204323704.png)
 
 * Docker Image
-  * 是一個唯讀的模板且可透過它可以用來建立 Docker Container
+  * 是一個唯讀的模板且可透過它用來建立 Docker Container
 * Dockerfile
   * 透過 Dockerfile 打包自己的 Docker Image
 * Docker Container
