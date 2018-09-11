@@ -325,7 +325,11 @@ sudo docker run -d -p 5000:5000 -v /docker/registry:/var/lib/registry registry
 ## 設定 insecure-registries
 [Top](#contents)
 
-- 的
+* 開啟 【 Docker 】中的 【 Preferences... 】
+
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___5_05_37-1536656762820.png)
+
+* 的
 
   ```
   Docker-Registry-IP:5000
