@@ -121,21 +121,21 @@ Key Pair 下載結果
 ❖ 2.1  指令為 cd 憑證所在目錄
 ```
 
-![](https://oranwind.s3.amazonaws.com/2018/May/_____2018_05_11___4_26_19-1526030730254.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_57_21-1536652679087.png)
 
 ```
 ❖ 2.2  確認憑證是否存在
        指令為 ls -al
 ```
 
-![](https://oranwind.s3.amazonaws.com/2018/May/_____2018_05_11___4_27_13-1526030786142.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_59_43-1536652801185.png)
 
 ```
 ❖ 2.3  設定憑證權限
        指令為 chmod 400 憑證名稱
 ```
 
-![](https://oranwind.s3.amazonaws.com/2018/May/_____2018_05_11___4_30_28-1526030979115.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_01_13-1536652888869.png)
 
 #### Step 3. 取得 AWS EC2 登入資訊
 
