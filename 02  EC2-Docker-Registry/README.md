@@ -59,6 +59,13 @@ Source: 0.0.0.0/0
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_33_56-1536651257717.png)
 
+```
+Key Pair 下載結果
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_37_30-1536651521517.png)
+
+
 ## 遠端登入到 AWS EC2
 [Top](#contents)
 
