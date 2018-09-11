@@ -306,6 +306,7 @@ Key Pair 下載結果
 
 ```
 於終端機 【 macOS 】或 Putty 【 Windows 】中輸入下方指令
+
 sudo apt-get update
 sudo apt-get install -y docker.io
 ```
@@ -317,6 +318,7 @@ sudo apt-get install -y docker.io
 
 ```
 於終端機 【 macOS 】或 Putty 【 Windows 】中輸入下方指令
+
 sudo docker run -d -p 5000:5000 -v /docker/registry:/var/lib/registry registry
 ```
 
@@ -339,7 +341,7 @@ sudo docker run -d -p 5000:5000 -v /docker/registry:/var/lib/registry registry
   Docker-Registry-IP:5000
   ```
   
-  ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___5_11_31-1536657112610.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___5_11_31-1536657112610.png)
 
 
 - 點選 【 Apply & Restart 】以重新啟動 Docker 
@@ -351,8 +353,9 @@ sudo docker run -d -p 5000:5000 -v /docker/registry:/var/lib/registry registry
 [Top](#contents)
 
 ```
-sudo docker tag mmosconii/influxdb Docker-Registry-IP:5000/mmosconii/influxdb
+於終端機 【 macOS 】或 Putty 【 Windows 】中輸入下方指令
 
+sudo docker tag mmosconii/influxdb Docker-Registry-IP:5000/mmosconii/influxdb
 sudo docker push Docker-Registry-IP:5000/mmosconii/influxdb
 ```
 
