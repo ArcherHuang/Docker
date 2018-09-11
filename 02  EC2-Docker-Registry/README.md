@@ -181,7 +181,7 @@ Key Pair 下載結果
 #### Step 2. 將 AWS EC2 的 .pem 憑證檔轉成 .ppk
 
 ```
-❖ 2.1  開啟 PuTTYgen
+ 2.1  開啟 PuTTYgen
        ① 點選【 開始 】 ➙ 【 所有程式 】 ➙ 【 PuTTY 】 ➙ 【 PuTTYgen 】
 ```
 
@@ -192,7 +192,7 @@ Key Pair 下載結果
 ---
 
 ```
-❖ 2.2  載入私有金鑰
+ 2.2  載入私有金鑰
        ① 點選 【 File 】 ➙ 【 Load private key 】
 ```
 
@@ -255,7 +255,7 @@ Key Pair 下載結果
 #### Step 3. 登入到 AWS EC2 中
 
 ```
-❖ 3.1  開啟 PuTTY
+ 3.1  開啟 PuTTY
        ① 點選【 開始 】 ➙ 【 所有程式 】 ➙ 【 PuTTY 】
 ```
 
