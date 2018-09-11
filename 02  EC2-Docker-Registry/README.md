@@ -30,6 +30,15 @@
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_10_17-1536649840659.png)
 
+* 點選 【 Add Rule 】新增下方資訊後按 【 Review and Launch 】
+
+```
+Port Range: 5000
+Source: 0.0.0.0/0
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_15_07-1536650132302.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_17_24-1536650262691.png)
 
 ## 遠端登入到 AWS EC2
 [Top](#contents)
