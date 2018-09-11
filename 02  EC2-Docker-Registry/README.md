@@ -43,6 +43,10 @@ Source: 0.0.0.0/0
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_17_24-1536650262691.png)
 
+* 點選 【 Launch 】
+
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_20_14-1536650429996.png)
+
 ## 遠端登入到 AWS EC2
 [Top](#contents)
 
