@@ -91,6 +91,13 @@ Key Pair 下載結果
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_42_10-1536651768389.png)
 
+---
+
+* 10  AWS EC2 建立完的結果
+
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_44_09-1536651912817.png)
+
+
 ## 遠端登入到 AWS EC2
 [Top](#contents)
 
