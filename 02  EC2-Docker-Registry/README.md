@@ -160,8 +160,144 @@ Key Pair 下載結果
 
 ![](https://oranwind.s3.amazonaws.com/2018/May/_____2018_05_11___4_35_02-1526031281130.png)
 
+---
 
 * Windows
+
+#### Step 1. 下載 PuTTY 並安裝
+
+下載網址 https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/putty_download-1524464796048.png)
+
+---
+
+#### Step 2. 將 AWS EC2 的 .pem 憑證檔轉成 .ppk
+
+```
+❖ 2.1  開啟 PuTTYgen
+       ① 點選【 開始 】 ➙ 【 所有程式 】 ➙ 【 PuTTY 】 ➙ 【 PuTTYgen 】
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/0-1524464931948.png)
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/0_1-1524465188028.png)
+
+```
+❖ 2.2  載入私有金鑰
+       ① 點選 【 File 】 ➙ 【 Load private key 】
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/0_2-1524465327482.png)
+
+```
+       ② 將右下角 【 PuTTY Private Key Files(*.ppk) 】選項改成 【 All Files (*.*) 】
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/0_3-1524465669328.png)
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/0_4-1524465814546.png)
+
+```
+       ③ 點選 AWS EC2 的 .pem 憑證檔  ➙ 【 開啟 】
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/0_5-1524466155099.png)
+
+```
+       ④ 點選 【 確定 】
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/0_6-1524466254728.png)
+
+```
+       ⑤ 點選 【 Save private key 】
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/0_7-1524466411984.png)
+
+```
+       ⑥ 點選 【 是 】
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/0_8-1524466518016.png)
+
+```
+       ⑦ 檔案名稱取名並點選 【 存檔 】
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/0_10-1524466774174.png)
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/0_11-1524466897572.png)
+
+#### Step 3. 登入到 AWS EC2 中
+
+```
+❖ 3.1  開啟 PuTTY
+       ① 點選【 開始 】 ➙ 【 所有程式 】 ➙ 【 PuTTY 】
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/0_12-1524467056127.png)
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/0_13-1524467189899.png)
+
+
+```
+       ② 點選【 Connection 】 ➙ 【 SSH 】 ➙ 【 Auth 】
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/0_14-1524467258067.png)
+
+
+```
+       ③ 點選 【 Browse 】按鈕，匯入步驟 2.2 所產生的 .ppk 憑證檔 ➙ 【 開啟 】 
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/0_15-1524467771717.png)
+
+
+```
+       ④ 點選 【 Session 】
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/0_16-1524467877704.png)
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/0_17-1524468482104.png)
+
+
+```
+       ⑤ 在 【 Host Name (or IP address) 】 欄位中輸入 AWS EC2 所開啟的 Instance 的帳號與 Public DNS
+          5.1 請到 AWS EC2 中點選所要使用的 Instance
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/1-1524468894836.png)
+
+
+```
+          5.2 再點選 【 Connect 】 按鈕
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/3-1524468931314.png)
+
+
+```
+          5.3 複製 【 Example 】中從 ubuntu 開始到最後的文字到 PuTTY 中【 Host Name (or IP address) 】 欄位中，再點選 【 Open 】
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/4-1524469196109.png)
+
+```
+       ⑥ 點選 【 是 】
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/5-1524469449243.png)
+
+
+```
+       ⑦ 登入成功畫面
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Apr/6-1524469539784.png)
 
 
 ## 安裝 Docker Engine
