@@ -339,6 +339,8 @@ Key Pair 下載結果
 ## 安裝 Docker Engine
 [Top](#contents)
 
+> 將 Docker Engine 安裝於 AWS EC2
+
 ```
 於終端機 【 macOS 】或 Putty 【 Windows 】中輸入下方指令
 
@@ -351,6 +353,8 @@ sudo apt-get install -y docker.io
 ## 下載並啟動 Docker Registry
 [Top](#contents)
 
+> 將 Docker Registry 安裝於 AWS EC2
+
 ```
 於終端機 【 macOS 】或 Putty 【 Windows 】中輸入下方指令
 
@@ -361,6 +365,9 @@ sudo docker run -d -p 5000:5000 -v /docker/registry:/var/lib/registry registry
 
 ## 設定 insecure-registries
 [Top](#contents)
+
+> 確認 local 端電腦已經安裝 Docker Engine 
+> 在 local 端的電腦進行 Docker 設定
 
 * 開啟 【 Docker 】中的 【 Preferences... 】
 
@@ -392,6 +399,8 @@ sudo docker run -d -p 5000:5000 -v /docker/registry:/var/lib/registry registry
 
 ## Push Docker Image 到 Docker Registry
 [Top](#contents)
+
+> 將 local 端的 mmosconii/influxdb 上傳到 Docker Registry
 
 ```
 於終端機 【 macOS 】或 Putty 【 Windows 】中輸入下方指令
