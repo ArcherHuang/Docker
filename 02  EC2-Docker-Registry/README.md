@@ -365,6 +365,8 @@ sudo docker push Docker-Registry-IP:5000/mmosconii/influxdb
 [Top](#contents)
 
 ```
+於終端機 【 macOS 】或 Putty 【 Windows 】中輸入下方指令
+
 curl -X GET http://Docker-Registry-IP:5000/v2/_catalog
 curl -X GET http://Docker-Registry-IP:5000/v2/mmosconii/influxdb/tags/list
 curl -X GET http://Docker-Registry-IP:5000/v2/mmosconii/influxdb/manifests/latest
