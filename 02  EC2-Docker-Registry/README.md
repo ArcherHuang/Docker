@@ -415,11 +415,11 @@ sudo docker run -d -p 5000:5000 -v /docker/registry:/var/lib/registry registry
 ## Push Docker Image 到 Docker Registry
 [Top](#contents)
 
-> 將 Local 端的 【 mmosconii/flask-sample 】Image 上傳到 Docker Registry <br>
-> ※ 此 【 mmosconii/flask-sample 】Image 為[上個章節](https://github.com/ArcherHuang/Docker/tree/master/01%20%20Python-Flask)所產生
+> 將 Local 端的【 mmosconii/flask-sample 】Image 上傳到 Docker Registry <br>
+> ※ 此【 mmosconii/flask-sample 】Image 為[上個章節](https://github.com/ArcherHuang/Docker/tree/master/01%20%20Python-Flask)所產生
 
 ```
-於終端機 【 macOS 】或 Putty 【 Windows 】中輸入下方指令
+於終端機【 macOS 】或 Putty【 Windows 】中輸入下方指令
 
 sudo docker tag mmosconii/flask-sample Docker-Registry-IP:5000/mmosconii/flask-sample
 sudo docker push Docker-Registry-IP:5000/mmosconii/flask-sample
@@ -433,7 +433,7 @@ sudo docker push Docker-Registry-IP:5000/mmosconii/flask-sample
 > 在 Local 端確認遠端的 Docker Registry 是否有剛上傳的 Image
 
 ```
-於終端機 【 macOS 】或 Putty 【 Windows 】中輸入下方指令
+於終端機【 macOS 】或 Putty【 Windows 】中輸入下方指令
 
 curl -X GET http://Docker-Registry-IP:5000/v2/_catalog
 curl -X GET http://Docker-Registry-IP:5000/v2/mmosconii/flask-sample/tags/list
@@ -443,5 +443,5 @@ curl -X GET http://Docker-Registry-IP:5000/v2/mmosconii/flask-sample/manifests/l
 
 --------------------------------
 Next: []() <br>
-Top: [EC2 Docker Registry 目錄](#contents)<br>
+Top: [AWS EC2 Docker Registry 目錄](#contents)<br>
 Back: [Docker 首頁](https://github.com/ArcherHuang/Docker#contents)
