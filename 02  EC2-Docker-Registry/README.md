@@ -103,6 +103,27 @@ Key Pair 下載結果
 
 * macOS
 
+```
+1  點選所啟用的 Instance 再點選 【 Connect 】
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/May/_____2018_05_11___4_14_47-1526030288782.png)
+
+```
+2  複製紅色框框中的資訊到終端機中
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/May/_____2018_05_11___4_20_46_1526030454484-1526031084072.png)
+
+![](https://oranwind.s3.amazonaws.com/2018/May/_____2018_05_11___4_34_11-1526031221269.png)
+
+
+```
+3   登入成功畫面
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/May/_____2018_05_11___4_35_02-1526031281130.png)
+
 
 * Windows
 
