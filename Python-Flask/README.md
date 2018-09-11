@@ -1,3 +1,10 @@
+## 學習目標
+* Docker 運作流程
+* Docker 指令
+* Dockerfile 撰寫
+* Python Flask 的 CRUD 撰寫
+* Postman 使用
+
 ## Contents
 - [Docker Flask Sample 說明](#docker-flask-sample)
 - [Docker 運作流程](#docker-運作流程)
