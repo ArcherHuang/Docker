@@ -1,5 +1,8 @@
 # 在 AWS EC2 上建立 Docker Registry
 
+## 學習目標
+* 
+
 ## Contents
 - [示意圖](#示意圖)
 - [AWS EC2 設定](#aws-ec2-設定)
