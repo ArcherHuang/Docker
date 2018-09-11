@@ -4,7 +4,7 @@
 - [下載並啟動 Docker Registry](#下載並啟動-docker-registry)
 - [設定 insecure-registries](#設定-insecure-registries)
 - [Push Docker Image 到 Docker Registry](#push-docker-image-到-docker-registry)
-- [透過 Restful API 查詢 Docker Registry 資訊](#透過-restful-api查詢-docker-registry-資訊)
+- [透過 Restful API 查詢 Docker Registry 資訊](#透過-restful-api-查詢-docker-registry-資訊)
 
 ## AWS EC2 設定
 [Top](#contents)
