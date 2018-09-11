@@ -14,13 +14,19 @@
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___2_42_25-1536648162101.png)
 
+---
+
 * 2  點選 【 Services 】 中的 【 EC2 】
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___2_55_33-1536648949561.png)
 
+---
+
 * 3  點選 【 Launch Instance 】
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_01_56-1536649334774.png)
+
+---
 
 * 4  點選 【 Ubuntu Server 16.04 LTS 】
 
