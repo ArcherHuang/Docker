@@ -18,6 +18,9 @@
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___2_55_33-1536648949561.png)
 
+* 點選 【 Launch Instance 】
+
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_01_56-1536649334774.png)
 
 ## 遠端登入到 AWS EC2
 [Top](#contents)
