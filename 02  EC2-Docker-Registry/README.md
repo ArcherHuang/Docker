@@ -22,6 +22,11 @@
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_01_56-1536649334774.png)
 
+* 點選 【 Ubuntu Server 16.04 LTS 】
+
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_08_27-1536649722418.png)
+
+
 ## 遠端登入到 AWS EC2
 [Top](#contents)
 
