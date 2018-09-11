@@ -329,18 +329,22 @@ sudo docker run -d -p 5000:5000 -v /docker/registry:/var/lib/registry registry
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___5_05_37-1536656762820.png)
 
-* 的
+* 點選 【 Daemon 】
+
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___5_08_59-1536656953101.png)
+
+* 在 【 insecure-registries 】中輸入下方資訊
 
   ```
   Docker-Registry-IP:5000
   ```
-
-
-- 重新啟動 Docker 
-
-  ```
   
-  ```
+  ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___5_11_31-1536657112610.png)
+
+
+- 點選 【 Apply & Restart 】以重新啟動 Docker 
+
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___5_13_24-1536657225264.png)
 
 
 ## Push Docker Image 到 Docker Registry
