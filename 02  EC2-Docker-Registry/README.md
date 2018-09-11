@@ -414,7 +414,7 @@ sudo docker run -d -p 5000:5000 -v /docker/registry:/var/lib/registry registry
 ## Push Docker Image 到 Docker Registry
 [Top](#contents)
 
-> 將 Local 端的 mmosconii/flask-sample Image 上傳到 Docker Registry
+> 將 Local 端的 mmosconii/flask-sample Image 上傳到 Docker Registry <br>
 > 此 mmosconii/flask-sample Image 為上個章節所產生
 
 ```
