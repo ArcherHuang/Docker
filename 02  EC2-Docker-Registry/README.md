@@ -26,7 +26,7 @@
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_08_27-1536649722418.png)
 
-* 點選 【 t2.micro Free tier eligible 】
+* 點選 【 t2.micro Free tier eligible 】再點選上方的 【 6. Configure Security Group 】
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_10_17-1536649840659.png)
 
