@@ -194,21 +194,21 @@ Key Pair 下載結果
        ② 將右下角 【 PuTTY Private Key Files(*.ppk) 】選項改成 【 All Files (*.*) 】
 ```
 
-![](https://oranwind.s3.amazonaws.com/2018/Apr/0_3-1524465669328.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_48_46-1536655741402.png)
 
-![](https://oranwind.s3.amazonaws.com/2018/Apr/0_4-1524465814546.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_47_36-1536655680593.png)
 
 ```
        ③ 點選 AWS EC2 的 .pem 憑證檔  ➙ 【 開啟 】
 ```
 
-![](https://oranwind.s3.amazonaws.com/2018/Apr/0_5-1524466155099.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_49_23-1536655777359.png)
 
 ```
        ④ 點選 【 確定 】
 ```
 
-![](https://oranwind.s3.amazonaws.com/2018/Apr/0_6-1524466254728.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_50_06-1536655819404.png)
 
 ```
        ⑤ 點選 【 Save private key 】
@@ -226,9 +226,9 @@ Key Pair 下載結果
        ⑦ 檔案名稱取名並點選 【 存檔 】
 ```
 
-![](https://oranwind.s3.amazonaws.com/2018/Apr/0_10-1524466774174.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_52_12-1536655951582.png)
 
-![](https://oranwind.s3.amazonaws.com/2018/Apr/0_11-1524466897572.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_53_02-1536655996650.png)
 
 #### Step 3. 登入到 AWS EC2 中
 
@@ -253,14 +253,14 @@ Key Pair 下載結果
        ③ 點選 【 Browse 】按鈕，匯入步驟 2.2 所產生的 .ppk 憑證檔 ➙ 【 開啟 】 
 ```
 
-![](https://oranwind.s3.amazonaws.com/2018/Apr/0_15-1524467771717.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_54_19-1536656075795.png)
 
 
 ```
        ④ 點選 【 Session 】
 ```
 
-![](https://oranwind.s3.amazonaws.com/2018/Apr/0_16-1524467877704.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_55_06-1536656118589.png)
 
 ![](https://oranwind.s3.amazonaws.com/2018/Apr/0_17-1524468482104.png)
 
@@ -270,21 +270,22 @@ Key Pair 下載結果
           5.1 請到 AWS EC2 中點選所要使用的 Instance
 ```
 
-![](https://oranwind.s3.amazonaws.com/2018/Apr/1-1524468894836.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_44_09-1536651912817.png)
 
 
 ```
           5.2 再點選 【 Connect 】 按鈕
 ```
 
-![](https://oranwind.s3.amazonaws.com/2018/Apr/3-1524468931314.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_57_15-1536656277251.png)
+
 
 
 ```
           5.3 複製 【 Example 】中從 ubuntu 開始到最後的文字到 PuTTY 中【 Host Name (or IP address) 】 欄位中，再點選 【 Open 】
 ```
 
-![](https://oranwind.s3.amazonaws.com/2018/Apr/4-1524469196109.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_58_28-1536656325753.png)
 
 ```
        ⑥ 點選 【 是 】
@@ -297,7 +298,7 @@ Key Pair 下載結果
        ⑦ 登入成功畫面
 ```
 
-![](https://oranwind.s3.amazonaws.com/2018/Apr/6-1524469539784.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_59_24-1536656388414.png)
 
 
 ## 安裝 Docker Engine
