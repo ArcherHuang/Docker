@@ -47,6 +47,18 @@ Source: 0.0.0.0/0
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_20_14-1536650429996.png)
 
+* 8  點選 【 Create a new key pair 】
+
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_29_25-1536650984780.png)
+
+
+```
+① 輸入 【 Key pair name 】
+② 點選 【 Download Key Pair 】
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_33_56-1536651257717.png)
+
 ## 遠端登入到 AWS EC2
 [Top](#contents)
 
