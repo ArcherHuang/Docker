@@ -1,4 +1,5 @@
 ## Contents
+- [示意圖](#示意圖)
 - [AWS EC2 設定](#aws-ec2-設定)
 - [遠端登入到 AWS EC2](#遠端登入到-aws-ec2)
 - [安裝 Docker Engine](#安裝-docker-engine)
@@ -6,6 +7,11 @@
 - [設定 insecure-registries](#設定-insecure-registries)
 - [Push Docker Image 到 Docker Registry](#push-docker-image-到-docker-registry)
 - [透過 Restful API 查詢 Docker Registry 資訊](#透過-restful-api-查詢-docker-registry-資訊)
+
+
+## 示意圖
+
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___5_42_47-1536658990106.png)
 
 ## AWS EC2 設定
 [Top](#contents)
