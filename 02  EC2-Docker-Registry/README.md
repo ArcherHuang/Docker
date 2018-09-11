@@ -14,7 +14,10 @@
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___2_42_25-1536648162101.png)
 
-* 的
+* 點選 【 Services 】 中的 【 EC2 】
+
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___2_55_33-1536648949561.png)
+
 
 ## 遠端登入到 AWS EC2
 [Top](#contents)
