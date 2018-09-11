@@ -19,7 +19,7 @@
 
 ## 示意圖
 
-![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___5_42_47-1536658990106.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___7_31_28-1536665511062.png)
 
 ## AWS EC2 設定
 [Top](#contents)
@@ -414,13 +414,13 @@ sudo docker run -d -p 5000:5000 -v /docker/registry:/var/lib/registry registry
 ## Push Docker Image 到 Docker Registry
 [Top](#contents)
 
-> 將 Local 端的 mmosconii/influxdb Image 上傳到 Docker Registry
+> 將 Local 端的 mmosconii/flask-sample Image 上傳到 Docker Registry
 
 ```
 於終端機 【 macOS 】或 Putty 【 Windows 】中輸入下方指令
 
-sudo docker tag mmosconii/influxdb Docker-Registry-IP:5000/mmosconii/influxdb
-sudo docker push Docker-Registry-IP:5000/mmosconii/influxdb
+sudo docker tag mmosconii/flask-sample Docker-Registry-IP:5000/mmosconii/flask-sample
+sudo docker push Docker-Registry-IP:5000/mmosconii/flask-sample
 ```
 
 ---
@@ -434,8 +434,8 @@ sudo docker push Docker-Registry-IP:5000/mmosconii/influxdb
 於終端機 【 macOS 】或 Putty 【 Windows 】中輸入下方指令
 
 curl -X GET http://Docker-Registry-IP:5000/v2/_catalog
-curl -X GET http://Docker-Registry-IP:5000/v2/mmosconii/influxdb/tags/list
-curl -X GET http://Docker-Registry-IP:5000/v2/mmosconii/influxdb/manifests/latest
+curl -X GET http://Docker-Registry-IP:5000/v2/mmosconii/flask-sample/tags/list
+curl -X GET http://Docker-Registry-IP:5000/v2/mmosconii/flask-sample/manifests/latest
 ```
 
 
