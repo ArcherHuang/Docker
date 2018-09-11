@@ -399,6 +399,7 @@ sudo docker run -d -p 5000:5000 -v /docker/registry:/var/lib/registry registry
 
   ```
   Docker-Registry-IP:5000
+  ※ Docker-Registry-IP 位於【 AWS EC2 】服務之【 Instances 】頁面中所建立的 Instance 列表中的【 IPv4 Public IP 】欄位
   ```
   
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___5_11_31-1536657112610.png)
