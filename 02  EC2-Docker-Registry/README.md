@@ -9,10 +9,11 @@
 ## AWS EC2 設定
 [Top](#contents)
 
-登入
+* 登入到 AWS EC2 
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___2_42_25-1536648162101.png)
 
+* 的
 
 ## 安裝 Docker Engine
 [Top](#contents)
