@@ -415,7 +415,7 @@ sudo docker run -d -p 5000:5000 -v /docker/registry:/var/lib/registry registry
 [Top](#contents)
 
 > 將 Local 端的 【 mmosconii/flask-sample 】Image 上傳到 Docker Registry <br>
-> ※ 此 【 mmosconii/flask-sample Image 】為[上個章節](https://github.com/ArcherHuang/Docker/tree/master/01%20%20Python-Flask)所產生
+> ※ 此 【 mmosconii/flask-sample 】Image 為[上個章節](https://github.com/ArcherHuang/Docker/tree/master/01%20%20Python-Flask)所產生
 
 ```
 於終端機 【 macOS 】或 Putty 【 Windows 】中輸入下方指令
