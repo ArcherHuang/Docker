@@ -32,9 +32,13 @@
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_08_27-1536649722418.png)
 
+---
+
 * 5  點選 【 t2.micro Free tier eligible 】再點選上方的 【 6. Configure Security Group 】
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_10_17-1536649840659.png)
+
+---
 
 * 6  點選 【 Add Rule 】
 
@@ -49,9 +53,13 @@ Source: 0.0.0.0/0
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_17_24-1536650262691.png)
 
+---
+
 * 7  點選 【 Launch 】
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_20_14-1536650429996.png)
+
+---
 
 * 8  點選 【 Create a new key pair 】
 
