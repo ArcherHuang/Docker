@@ -79,6 +79,11 @@ Key Pair 下載結果
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_37_30-1536651521517.png)
 
+```
+點選 【 Launch Instances 】
+```
+
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_40_32-1536651648414.png)
 
 ## 遠端登入到 AWS EC2
 [Top](#contents)
