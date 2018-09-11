@@ -366,8 +366,8 @@ sudo docker run -d -p 5000:5000 -v /docker/registry:/var/lib/registry registry
 ## 設定 insecure-registries
 [Top](#contents)
 
-> 確認 local 端電腦已經安裝 Docker Engine 
-> 在 local 端的電腦進行 Docker 設定
+> 確認 Local 端電腦已經安裝 Docker Engine 
+> 在 Local 端的電腦進行 Docker 設定
 
 * 開啟 【 Docker 】中的 【 Preferences... 】
 
@@ -400,7 +400,7 @@ sudo docker run -d -p 5000:5000 -v /docker/registry:/var/lib/registry registry
 ## Push Docker Image 到 Docker Registry
 [Top](#contents)
 
-> 將 local 端的 mmosconii/influxdb 上傳到 Docker Registry
+> 將 Local 端的 mmosconii/influxdb Image 上傳到 Docker Registry
 
 ```
 於終端機 【 macOS 】或 Putty 【 Windows 】中輸入下方指令
@@ -413,6 +413,8 @@ sudo docker push Docker-Registry-IP:5000/mmosconii/influxdb
 
 ## 透過 Restful API 查詢 Docker Registry 資訊
 [Top](#contents)
+
+> 在 Local 端確認遠端的 Docker Registry 是否有剛上傳的 Image
 
 ```
 於終端機 【 macOS 】或 Putty 【 Windows 】中輸入下方指令
