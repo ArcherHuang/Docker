@@ -137,6 +137,8 @@ Key Pair 下載結果
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_01_13-1536652888869.png)
 
+---
+
 #### Step 3. 取得 AWS EC2 登入資訊
 
 ```
@@ -144,6 +146,8 @@ Key Pair 下載結果
 ```
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_44_09-1536651912817.png)
+
+---
 
 ```
 3.2  複製紅色框框中的資訊到終端機中
@@ -153,6 +157,8 @@ Key Pair 下載結果
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_24_15-1536654285317.png)
 
+
+---
 
 ```
 3.3   登入成功畫面
@@ -183,12 +189,16 @@ Key Pair 下載結果
 
 ![](https://oranwind.s3.amazonaws.com/2018/Apr/0_1-1524465188028.png)
 
+---
+
 ```
 ❖ 2.2  載入私有金鑰
        ① 點選 【 File 】 ➙ 【 Load private key 】
 ```
 
 ![](https://oranwind.s3.amazonaws.com/2018/Apr/0_2-1524465327482.png)
+
+---
 
 ```
        ② 將右下角 【 PuTTY Private Key Files(*.ppk) 】選項改成 【 All Files (*.*) 】
@@ -198,11 +208,15 @@ Key Pair 下載結果
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_47_36-1536655680593.png)
 
+---
+
 ```
        ③ 點選 AWS EC2 的 .pem 憑證檔  ➙ 【 開啟 】
 ```
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_49_23-1536655777359.png)
+
+---
 
 ```
        ④ 點選 【 確定 】
@@ -210,17 +224,23 @@ Key Pair 下載結果
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_50_06-1536655819404.png)
 
+---
+
 ```
        ⑤ 點選 【 Save private key 】
 ```
 
 ![](https://oranwind.s3.amazonaws.com/2018/Apr/0_7-1524466411984.png)
 
+---
+
 ```
        ⑥ 點選 【 是 】
 ```
 
 ![](https://oranwind.s3.amazonaws.com/2018/Apr/0_8-1524466518016.png)
+
+---
 
 ```
        ⑦ 檔案名稱取名並點選 【 存檔 】
@@ -229,6 +249,8 @@ Key Pair 下載結果
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_52_12-1536655951582.png)
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_53_02-1536655996650.png)
+
+---
 
 #### Step 3. 登入到 AWS EC2 中
 
@@ -241,12 +263,16 @@ Key Pair 下載結果
 
 ![](https://oranwind.s3.amazonaws.com/2018/Apr/0_13-1524467189899.png)
 
+---
+
 
 ```
        ② 點選【 Connection 】 ➙ 【 SSH 】 ➙ 【 Auth 】
 ```
 
 ![](https://oranwind.s3.amazonaws.com/2018/Apr/0_14-1524467258067.png)
+
+---
 
 
 ```
@@ -255,6 +281,8 @@ Key Pair 下載結果
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_54_19-1536656075795.png)
 
+
+---
 
 ```
        ④ 點選 【 Session 】
@@ -265,6 +293,8 @@ Key Pair 下載結果
 ![](https://oranwind.s3.amazonaws.com/2018/Apr/0_17-1524468482104.png)
 
 
+---
+
 ```
        ⑤ 在 【 Host Name (or IP address) 】 欄位中輸入 AWS EC2 所開啟的 Instance 的帳號與 Public DNS
           5.1 請到 AWS EC2 中點選所要使用的 Instance
@@ -272,6 +302,7 @@ Key Pair 下載結果
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_44_09-1536651912817.png)
 
+---
 
 ```
           5.2 再點選 【 Connect 】 按鈕
@@ -279,7 +310,7 @@ Key Pair 下載結果
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_57_15-1536656277251.png)
 
-
+---
 
 ```
           5.3 複製 【 Example 】中從 ubuntu 開始到最後的文字到 PuTTY 中【 Host Name (or IP address) 】 欄位中，再點選 【 Open 】
@@ -287,12 +318,15 @@ Key Pair 下載結果
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_58_28-1536656325753.png)
 
+---
+
 ```
        ⑥ 點選 【 是 】
 ```
 
 ![](https://oranwind.s3.amazonaws.com/2018/Apr/5-1524469449243.png)
 
+---
 
 ```
        ⑦ 登入成功畫面
@@ -300,6 +334,7 @@ Key Pair 下載結果
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_59_24-1536656388414.png)
 
+---
 
 ## 安裝 Docker Engine
 [Top](#contents)
@@ -311,7 +346,7 @@ sudo apt-get update
 sudo apt-get install -y docker.io
 ```
 
-
+---
 
 ## 下載並啟動 Docker Registry
 [Top](#contents)
@@ -322,7 +357,7 @@ sudo apt-get install -y docker.io
 sudo docker run -d -p 5000:5000 -v /docker/registry:/var/lib/registry registry
 ```
 
-
+---
 
 ## 設定 insecure-registries
 [Top](#contents)
@@ -331,9 +366,13 @@ sudo docker run -d -p 5000:5000 -v /docker/registry:/var/lib/registry registry
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___5_05_37-1536656762820.png)
 
+---
+
 * 點選 【 Daemon 】
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___5_08_59-1536656953101.png)
+
+---
 
 * 在 【 insecure-registries 】中輸入下方資訊
 
@@ -343,11 +382,13 @@ sudo docker run -d -p 5000:5000 -v /docker/registry:/var/lib/registry registry
   
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___5_11_31-1536657112610.png)
 
+---
 
 - 點選 【 Apply & Restart 】以重新啟動 Docker 
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___5_13_24-1536657225264.png)
 
+---
 
 ## Push Docker Image 到 Docker Registry
 [Top](#contents)
@@ -359,7 +400,7 @@ sudo docker tag mmosconii/influxdb Docker-Registry-IP:5000/mmosconii/influxdb
 sudo docker push Docker-Registry-IP:5000/mmosconii/influxdb
 ```
 
-
+---
 
 ## 透過 Restful API 查詢 Docker Registry 資訊
 [Top](#contents)
