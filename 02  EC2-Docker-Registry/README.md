@@ -71,7 +71,7 @@ Source: 0.0.0.0/0
 ② 點選 【 Download Key Pair 】
 ```
 
-![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_33_56-1536651257717.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_17_12-1536653853559.png)
 
 ```
 Key Pair 下載結果
@@ -83,7 +83,7 @@ Key Pair 下載結果
 點選 【 Launch Instances 】
 ```
 
-![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_40_32-1536651648414.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_18_18-1536653913102.png)
 
 ---
 
@@ -151,7 +151,7 @@ Key Pair 下載結果
 
 ![](https://oranwind.s3.amazonaws.com/2018/May/_____2018_05_11___4_20_46_1526030454484-1526031084072.png)
 
-![](https://oranwind.s3.amazonaws.com/2018/May/_____2018_05_11___4_34_11-1526031221269.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_13_00-1536653600252.png)
 
 
 ```
