@@ -149,7 +149,7 @@ Key Pair 下載結果
 3.2  複製紅色框框中的資訊到終端機中
 ```
 
-![](https://oranwind.s3.amazonaws.com/2018/May/_____2018_05_11___4_20_46_1526030454484-1526031084072.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_23_21-1536654484639.png)
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___4_24_15-1536654285317.png)
 
