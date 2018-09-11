@@ -305,6 +305,7 @@ Key Pair 下載結果
 [Top](#contents)
 
 ```
+於終端機 【 macOS 】或 Putty 【 Windows 】中輸入下方指令
 sudo apt-get update
 sudo apt-get install -y docker.io
 ```
@@ -315,6 +316,7 @@ sudo apt-get install -y docker.io
 [Top](#contents)
 
 ```
+於終端機 【 macOS 】或 Putty 【 Windows 】中輸入下方指令
 sudo docker run -d -p 5000:5000 -v /docker/registry:/var/lib/registry registry
 ```
 
