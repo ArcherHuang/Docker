@@ -1,5 +1,4 @@
 # 在 AWS EC2 上建立 Docker Registry
----
 
 ## Contents
 - [示意圖](#示意圖)
