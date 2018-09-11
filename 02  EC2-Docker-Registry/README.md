@@ -143,7 +143,7 @@ Key Pair 下載結果
 3.1  點選所啟用的 Instance 再點選 【 Connect 】
 ```
 
-![](https://oranwind.s3.amazonaws.com/2018/May/_____2018_05_11___4_14_47-1526030288782.png)
+![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_44_09-1536651912817.png)
 
 ```
 3.2  複製紅色框框中的資訊到終端機中
