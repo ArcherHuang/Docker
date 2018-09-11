@@ -1,7 +1,10 @@
 # 在 AWS EC2 上建立 Docker Registry
 
 ## 學習目標
-* 
+* AWS EC2 使用
+* 遠端登入到 AWS EC2
+* 建立 Docker Registry
+* 查詢 Docker Registry 資訊
 
 ## Contents
 - [示意圖](#示意圖)
