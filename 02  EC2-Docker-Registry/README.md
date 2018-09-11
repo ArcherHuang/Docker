@@ -10,27 +10,27 @@
 ## AWS EC2 設定
 [Top](#contents)
 
-* 登入到 AWS EC2 
+* 1. 登入到 AWS EC2 
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___2_42_25-1536648162101.png)
 
-* 點選 【 Services 】 中的 【 EC2 】
+* 2. 點選 【 Services 】 中的 【 EC2 】
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___2_55_33-1536648949561.png)
 
-* 點選 【 Launch Instance 】
+* 3. 點選 【 Launch Instance 】
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_01_56-1536649334774.png)
 
-* 點選 【 Ubuntu Server 16.04 LTS 】
+* 4. 點選 【 Ubuntu Server 16.04 LTS 】
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_08_27-1536649722418.png)
 
-* 點選 【 t2.micro Free tier eligible 】再點選上方的 【 6. Configure Security Group 】
+* 5. 點選 【 t2.micro Free tier eligible 】再點選上方的 【 6. Configure Security Group 】
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_10_17-1536649840659.png)
 
-* 點選 【 Add Rule 】
+* 6. 點選 【 Add Rule 】
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_15_07-1536650132302.png)
 
@@ -43,7 +43,7 @@ Source: 0.0.0.0/0
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_17_24-1536650262691.png)
 
-* 點選 【 Launch 】
+* 7. 點選 【 Launch 】
 
 ![](https://oranwind.s3.amazonaws.com/2018/Sep/_____2018_09_11___3_20_14-1536650429996.png)
 
