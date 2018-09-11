@@ -39,7 +39,7 @@ sudo docker run -d -p 5000:5000 -v /docker/registry:/var/lib/registry registry
 
 - 的
 
-- ```
+  ```
   Docker-Registry-IP:5000
   ```
 
