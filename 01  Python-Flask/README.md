@@ -137,6 +137,8 @@ Flask 是一個 Python 的輕量級 Web 應用框架
   * **sudo** docker login
 * 14&nbsp;&nbsp;上傳 Image 到 Docker Hub
   * **sudo** docker push mmosconii/flask-sample
+* 15&nbsp;&nbsp;查看 log
+  * **sudo** docker logs flask-sample-dev
 
 ## API
 [Top](#contents)
