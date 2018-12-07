@@ -1,5 +1,7 @@
 ## Contents
 * Version
+  * Ubuntu
+    * ubuntu:16.04
   * Python3
     * Python 3.5.2
   * pip3
