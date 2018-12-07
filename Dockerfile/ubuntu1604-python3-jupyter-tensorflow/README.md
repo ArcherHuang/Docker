@@ -13,9 +13,7 @@
 * Jupyter
   * http://IP:PORT/?token=TOKEN
   * 執行結果
-  ![](https://oranwind.s3.amazonaws.com/2018/Dec/_____2018_12_07___11_40_52-1544154143150.png)
   ![](https://oranwind.s3.amazonaws.com/2018/Dec/_____2018_12_07___1_52_39-1544161974531.png)
-
   * Python3 
   ![](https://oranwind.s3.amazonaws.com/2018/Dec/_____2018_12_07___11_41_01-1544154168376.png)
   * Code <br/>
