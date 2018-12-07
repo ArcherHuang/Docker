@@ -2,7 +2,7 @@
 * Build Docker Image
   * docker build --no-cache -t mmosconii/ubuntu1604-python3-jupyter-tensorflow .
 * 執行 mmosconii/ubuntu1604-python3-jupyter-tensorflow Image 
-  * docker run -it --name=ubuntu1604-python3-jupyter-tensorflow-dev --expose 8888 mmosconii/ubuntu1604-python3-jupyter-tensorflow
+  * docker run -it --name=ubuntu1604-python3-jupyter-tensorflow-dev -P --expose 8888 mmosconii/ubuntu1604-python3-jupyter-tensorflow
 * 進到 Container 中
   * docker exec -it ubuntu1604-python3-jupyter-tensorflow-dev bash
 * Check Port
