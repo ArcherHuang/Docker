@@ -12,13 +12,13 @@
   ![](https://oranwind.s3.amazonaws.com/2018/Dec/_____2018_12_07___1_47_33-1544161693639.png)
 * Jupyter
   * http://IP:PORT/?token=TOKEN
-  * 執行結果 <br/>
+  * 執行結果 <br/> <br/>
   ![](https://oranwind.s3.amazonaws.com/2018/Dec/_____2018_12_07___1_52_39-1544161974531.png)
-  * Python3 <br/>
+  * Python3 <br/> <br/>
   ![](https://oranwind.s3.amazonaws.com/2018/Dec/_____2018_12_07___1_53_49-1544162044968.png)
   * Code <br/>
     import tensorflow as tf <br/>
-    print(tf.VERSION)
+    print(tf.VERSION) <br/> <br/>
   ![](https://oranwind.s3.amazonaws.com/2018/Dec/_____2018_12_07___11_41_17-1544154188593.png)
 
 * Commit
