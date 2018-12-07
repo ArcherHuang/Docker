@@ -1,5 +1,13 @@
 ## Contents
-- [建立 Docker 版的 Python Flask](https://github.com/ArcherHuang/Docker/tree/master/01%20%20Python-Flask#建立-docker-版的-python-flask)
-- [在 AWS EC2 上建立 Docker Registry](https://github.com/ArcherHuang/Docker/tree/master/02%20%20EC2-Docker-Registry#在-aws-ec2-上建立-docker-registry)
-
-
+* Build Docker Image
+  * docker build --no-cache -t mmosconii/ubuntu1604-python3-jupyter-tensorflow .
+* 執行 mmosconii/ubuntu1604-python3-jupyter-tensorflow Image 
+  * docker run -it --name=ubuntu1604-python3-jupyter-tensorflow-dev -p :8888 mmosconii/ubuntu1604-python3-jupyter-tensorflow
+* 進到 Container 中
+  * docker exec -it ubuntu1604-python3-jupyter-tensorflow-dev bash
+* Check Port
+  * docker ps -a
+* Jupyter
+  * http://IP:PORT/?token=TOKEN
+* Commit
+  * docker commit -p CONTAINER-ID New-Docker-Image-Name
