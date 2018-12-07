@@ -16,4 +16,4 @@
 * Commit
   * docker commit -p CONTAINER-ID New-Docker-Image-Name
 * Docker Hub
-  * 
+  * https://hub.docker.com/r/mmosconii/ubuntu1604-python3-jupyter-tensorflow/
