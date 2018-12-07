@@ -1,4 +1,11 @@
 ## Contents
+* Version
+  * Python3
+    * Python 3.5.2
+  * Tensorflow
+    * 1.12.0
+  * pip3
+    * pip 8.1.1
 * Build Docker Image
   * docker build --no-cache -t mmosconii/ubuntu1604-python3-jupyter-tensorflow .
 * 執行 mmosconii/ubuntu1604-python3-jupyter-tensorflow Image 
