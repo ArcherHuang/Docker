@@ -5,7 +5,7 @@
   * Python3
     * Python 3.5.2
   * pip3
-    * pip 8.1.1
+    * pip 8.1.1 from /usr/lib/python3/dist-packages (python 3.5)
   * Tensorflow
     * 1.12.0
 * Build Docker Image
