@@ -145,7 +145,11 @@ Flask 是一個 Python 的輕量級 Web 應用框架
   * docker rm $(docker ps -a -q)
 * 18&nbsp;&nbsp;刪除所有 images
   * docker rmi $(docker images -q)
-* 18&nbsp;&nbsp;透過 Docker Compose 啟動 Docker
+* 19&nbsp;&nbsp;Install Docker Compose
+  * sudo curl -L "https://github.com/docker/compose/releases/download/1.23.1/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+  * sudo chmod +x /usr/local/bin/docker-compose
+  * docker-compose --version
+* 20&nbsp;&nbsp;透過 Docker Compose 啟動 Docker
   * docker-compose up -d
 
 ## API
